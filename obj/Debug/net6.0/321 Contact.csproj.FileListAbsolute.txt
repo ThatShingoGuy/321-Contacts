@@ -1,0 +1,15 @@
+C:\Users\regl8\source\repos\321 Contact\bin\Debug\net6.0\321 Contact.exe
+C:\Users\regl8\source\repos\321 Contact\bin\Debug\net6.0\321 Contact.deps.json
+C:\Users\regl8\source\repos\321 Contact\bin\Debug\net6.0\321 Contact.runtimeconfig.json
+C:\Users\regl8\source\repos\321 Contact\bin\Debug\net6.0\321 Contact.dll
+C:\Users\regl8\source\repos\321 Contact\bin\Debug\net6.0\321 Contact.pdb
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\321 Contact.csproj.AssemblyReference.cache
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\321 Contact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\321 Contact.AssemblyInfoInputs.cache
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\321 Contact.AssemblyInfo.cs
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\321 Contact.csproj.CoreCompileInputs.cache
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\321 Contact.dll
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\refint\321 Contact.dll
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\321 Contact.pdb
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\321 Contact.genruntimeconfig.cache
+C:\Users\regl8\source\repos\321 Contact\obj\Debug\net6.0\ref\321 Contact.dll
